@@ -1,4 +1,4 @@
-````markdown name=README.md
+
 # ☀️ Morning Briefing Bot (J.A.R.V.I.S. Style Assistant)
 
 A fully automated personal morning assistant that delivers weather, system status, tech news headlines, music ambience, and daily inspiration — with interactive voice + terminal control and Telegram delivery.
